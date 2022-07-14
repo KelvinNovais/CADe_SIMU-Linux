@@ -1,0 +1,85 @@
+On December 20, I downloaded the following two emails about the patent
+status of the GSM 6.10 algorithm.
+
+Felix Lechner <felix.lechner@lease-up.com>
+
+* * *
+
+https://www.mail-archive.com/ietf@ietf.org/msg03978.html
+
+From:   James P. Salsman
+Sent:   Tuesday, November 14, 2000 3:03 pm
+To:     [EMAIL PROTECTED]
+Cc:     [EMAIL PROTECTED]
+Subject:        [VPIM] GSM 6.10 is public domain; audio/wav needs registered
+
+Contrary to what people at VPIM meetings, lists, and on web pages
+have suggested, nobody owns any IPR on the GSM 06.10 vocodec format,
+or on any routines for encoding or decoding it.  It was developed
+from published code by people who took care to publish it before it
+could be monopolized.
+
+Philips owns the rights to a related but different form of LPC,
+from U.S. patent 5,943,646, which was applied for more than four
+years after the publication of GSM 06.10 by ETSI.  That patent is
+most likely what is confusing people about the status.
+
+Also,  http://www.ema.org/vpimdir/specs/draft-ema-vpim-wav-00.txt
+-- the pending-in-limbo audio/wav IANA registration -- has an error: 
+it reads "audio/vnd.wav"; that should be "audio/vnd.wave", which, 
+by the way, hasn't been registered with IANA either.  I agree with
+Keith Moore that they should be registered as identical, and I hope
+that they be registered in the same document to make that clearer.
+The definitive reference for these formats seems to be kept in
+Microsoft's Support Knowledge Base Article ID Q120253:
+  http://support.microsoft.com/support/kb/articles/Q120/2/53.asp
+
+Cheers,
+James 
+
+* * *
+
+https://www.mail-archive.com/ietf@ietf.org/msg03978.html
+
+Re: [VPIM] GSM 6.10 is public domain; audio/wav needs registered
+
+James P. Salsman Wed, 15 Nov 2000 15:56:50 -0800
+
+Jutta,
+
+Thanks for the information:
+
+> The patent I've seen investigated in connection with GSM 06.10
+> and Philips is the older 4,932,061 (1990)....
+
+Interesting.  The priority date of that one is 22 March 1985.
+The practice of quantizing residual exitation in LPC vocoders was 
+not novel in 1985.  For an example of how people were performing 
+VQ classification on the exitation residual much earlier, see:
+
+"Epoch extraction from linear prediction residual for 
+identification of closed glottis interval", by T. Ananthapadmanabha 
+and B. Yegnanarayana,  in IEEE Transactions on Acoustics, Speech, 
+and Signal Processing, vol. 27, no.4, pp. 309-19 (1979). 
+
+Certainly the methods of doing such quantization described in the 
+claims of patent 4,932,061 are novel, because they all explicitly 
+refer to "perceptually weighting" the exitation residual.  However, 
+GSM 6.10 uses only four quantization vectors and a linear scaling 
+factor, without any weighting based on non-linear perceptual 
+modeling, so that particular set of claims do not apply to GSM 6.10.
+
+It also might be helpful to look at the references in the these 
+GSM 6.10 descriptions published prior to ETSI's:
+
+"Evolution of Six Medium Bit rate Coders For The Pan-European
+Digital Mobile Radio System", by E. Natvig, in Journal On Selected
+Areas In Communications, vol. 6, no. 2, pp 324-34 (1988).
+
+"Speech Codec for the European Mobile Radio System", by K. Hellwig, 
+P. Vary, D. Massaloux, and J.P. Petit, in Proceedings of the 
+ICASSP-88, pp. 227 (April, 1988).
+
+Cheers,
+James
+

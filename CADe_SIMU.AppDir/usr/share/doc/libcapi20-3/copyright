@@ -1,0 +1,76 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: http://git.misdn.eu/?p=projects/isdn4k-utils.git
+
+Files: *
+Copyright: the i4l crew ( see http://www.isdn4linux.de/ )
+           1997-2004 Carsten Paeth <calle@calle.de>
+           2001 Paul Slootman <paul@isdn4linux.de>
+           2002 Armin Schindler <armin@melware.de>
+           2009 Jan-Michael "buzz" Brummer
+           2011 Karsten Keil <kkeil@linux-pingi.de>
+           2011 Louis Lagendijk
+License: GPL-2
+
+Files: debian/*
+Copyright: 2009-2018 Rolf Leggewie <foss@rolf.leggewie.biz>
+License: GPL-2
+
+Files: capi_mod.h capi20.h
+Copyright: 2008 Jan-Michael Brummer
+           2008 Marco Zissen
+           2011 by Karsten Keil <kkeil@linux-pingi.de>
+           1997,2000 Carsten Paeth <calle@calle.de>
+License: LGPL-2.1
+
+Files: compat/byteswap.h
+Copyright: 1997-2013 Free Software Foundation, Inc.
+License: LGPL-2.1
+
+Files: aclocal.m4 config* ltmain.sh Makefile* missing
+Copyright: 1996-2010 Free Software Foundation, Inc
+           1996 Gordon Matzigkeit <gord@gnu.ai.mit.edu>
+           1996 François Pinard <pinard@iro.umontreal.ca>
+License: GPL-2
+
+Files: install-sh
+Copyright: 1994 X Consortium
+License: MIT/X11/BSD-like
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to
+ deal in the Software without restriction, including without limitation the
+ rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+ sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+ X CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+ AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNEC-
+ TION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ .
+ Except as contained in this notice, the name of the X Consortium shall not
+ be used in advertising or otherwise to promote the sale, use or other deal-
+ ings in this Software without prior written authorization from the X Consor-
+ tium.
+ .
+ FSF changes to this file are in the public domain.
+
+License: GPL-2
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; version 2 only.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License can be found in `/usr/share/common-licenses/GPL-2'.
+
+License: LGPL-2.1
+ This code is free software; you can redistribute it and/or modify
+ it under the terms of the GNU LESSER GENERAL PUBLIC LICENSE
+ version 2.1 as published by the Free Software Foundation.
+ .
+ On Debian systems, the complete text of the GNU Lesser General
+ Public License can be found in `/usr/share/common-licenses/LGPL-2.1'.

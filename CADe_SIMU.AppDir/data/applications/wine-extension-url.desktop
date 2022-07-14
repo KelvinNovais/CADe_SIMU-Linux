@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=rundll32
+MimeType=application/x-mswinurl;
+Exec=env WINEPREFIX="/home/kelvin/Desktop/CADe_SIMU-Linux/CADe_SIMU/prefix" wine start /ProgIDOpen InternetShortcut %f
+NoDisplay=true
+StartupNotify=true
+Icon=1CD8_rundll32.0

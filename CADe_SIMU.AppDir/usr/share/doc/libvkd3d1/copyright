@@ -1,0 +1,26 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0
+Upstream-Name: vkd3d
+Source: https://dl.winehq.org/vkd3d/source
+Files-Excluded:
+ bin
+ m4/lt*.m4
+ m4/libtool.m4
+ aclocal.m4
+ configure
+ Makefile.in
+ libs/vkd3d_version.c
+ include/config.h.in
+
+Files: *
+Copyright:
+ 2016-2018 the Vkd3d project authors (see AUTHORS file)
+License: LGPL-2.1+
+
+Files: debian/*
+Copyright:
+ 2018-2019 Michael Gilbert <mgilbert@debian.org>
+ 2019 Jens Reyer <jre.winesim@gmail.com>
+License: LGPL-2.1+
+
+License: LGPL-2.1+
+ See /usr/share/common-licenses/LGPL-2.1

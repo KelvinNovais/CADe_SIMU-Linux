@@ -1,0 +1,21 @@
+The libcapi20-3 package was carved out from the long-established isdnutils
+package for easier maintenance in March 2014.  Feel free to consult isdnutils
+history to learn more about how things evolved prior to that date.
+
+It may become necessary to debug libcapi20. Debian builds the package without
+debug information for performance reasons.  Below patch will compile the
+library with debug information.
+
+diff --git a/capi20/capi20.c b/capi20/capi20.c
+index ab8c1c6..81b5c5c 100644
+--- a/capi20/capi20.c
++++ b/capi20/capi20.c
+@@ -61,7 +61,7 @@ static int tracelevel;
+ static char *tracefile;
+
+ /** debug level, for debugging purpose */
+-static int nDebugLevel = 0;
++static int nDebugLevel = 0xFFFF;
+
+ /**
+  * \brief CapiDebug output functions

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=winebrowser
+MimeType=text/html;
+Exec=env WINEPREFIX="/home/kelvin/Desktop/CADe_SIMU-Linux/CADe_SIMU/prefix" wine start /ProgIDOpen htmlfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=7765_winebrowser.0

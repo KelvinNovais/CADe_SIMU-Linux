@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=winhlp32
+MimeType=application/winhlp;
+Exec=env WINEPREFIX="/home/kelvin/Desktop/CADe_SIMU-Linux/CADe_SIMU/prefix" wine start /ProgIDOpen hlpfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=4137_winhlp32.0

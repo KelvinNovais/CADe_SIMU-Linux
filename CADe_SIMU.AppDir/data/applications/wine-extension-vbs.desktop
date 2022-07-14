@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=A Wine application
+MimeType=application/x-wine-extension-vbs;
+Exec=env WINEPREFIX="/home/kelvin/Desktop/CADe_SIMU-Linux/CADe_SIMU/prefix" wine start /ProgIDOpen VBSFile %f
+NoDisplay=true
+StartupNotify=true

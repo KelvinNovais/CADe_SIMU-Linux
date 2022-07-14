@@ -1,0 +1,78 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ThemeManager]
+"ColorName"="NormalColor"
+"DllName"="C:\\windows\\Resources\\Themes\\kupofl\\kupofl.msstyles"
+"ThemeActive"="1"
+"SizeName"="LargeFonts"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000578
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion]   #1657302380
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Fonts]   #1657749903
+"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\marlett.ttf"
+"MS Sans Serif"="sseriff.fon"
+"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahomabd.ttf"
+"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\wingding.ttf"
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{25DA76D0-033C-4235-9002-19F48894AC6F}]   #1657738434
+"DeviceState"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{25DA76D0-033C-4235-9002-19F48894AC6F}\Properties]   #1657738434
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Pulseaudio"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000004
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{25DA76D0-033C-4235-9002-19F48894AC6F}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Pulseaudio"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Pulseaudio"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,44,ac,00,00,20,62,\
+  05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,44,ac,00,00,20,62,\
+  05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{FD47D9CC-4218-4135-9CE2-0C195C87405B}]   #1657738434
+"DeviceState"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{FD47D9CC-4218-4135-9CE2-0C195C87405B}\Properties]   #1657302380
+"{026E516E-B814-414B-83CD-856D6FEF4822},2"="Pulseaudio"
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},0"=dword:00000001
+"{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},3"=dword:00000003
+"{233164C8-1B2C-4C7D-BC68-B671687A2567},1"="{FD47D9CC-4218-4135-9CE2-0C195C87405B}"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},14"="Pulseaudio"
+"{A45C254E-DF1C-4EFD-8020-67D146A850E0},2"="Pulseaudio"
+"{E4870E26-3CC5-4CD2-BA46-CA0A9A70ED04},3"=hex:fe,ff,02,00,44,ac,00,00,20,62,\
+  05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+"{F19F064D-082C-4E27-BC73-6882A1BB8E4C},0"=hex:fe,ff,02,00,44,ac,00,00,20,62,\
+  05,00,08,00,20,00,16,00,20,00,03,00,00,00,03,00,00,00,00,00,10,00,80,00,00,\
+  aa,00,38,9b,71
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion]   #1657670899
+"CSDVersion"="Service Pack 3"
+"CurrentBuild"="2600"
+"CurrentBuildNumber"="2600"
+"CurrentVersion"="5.1"
+"ProductName"="Microsoft Windows XP"
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts]   #1657749903
+"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\marlett.ttf"
+"MS Sans Serif"="sseriff.fon"
+"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahomabd.ttf"
+"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\wingding.ttf"
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}]   #1657302048
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]   #1657749903
+"DriverDateData"=hex:ea,6d,a7,9a,04,97,d8,01
+"DriverDesc"="Unknown AMD Radeon GPU @ pci:0000:03:00.0"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e96e-e325-11ce-bfc1-08002be10318}]   #1657749903
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e96e-e325-11ce-bfc1-08002be10318}\0000]   #1657749903
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\DeviceClasses\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\#]   #1657749903
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\DeviceClasses\{4D1E55B2-F16F-11CF-88CB-001111000030}\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{4D1E55B2-F16F-11CF-88CB-001111000030}\#]   #1657749903

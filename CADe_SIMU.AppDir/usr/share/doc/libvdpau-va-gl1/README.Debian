@@ -1,0 +1,13 @@
+libvdpau-va-gl is work-in-progress. While it works fine with Adobe
+Flash Player, it may cause problems with other VDPAU-enabled
+software. Therefore, it has not been enabled system-wide by
+default.
+
+You can either enable it by uncommenting the appropriate lines in
+`/etc/X11/Xsession.d/20vdpau-va-gl` or enable only for some software
+by setting `VDPAU_DRIVER` environment variable. For example, to enable
+it in Chromium, start Chromium with the following command line:
+
+    VDPAU_DRIVER=va_gl chromium
+
+ -- Vincent Bernat <bernat@debian.org>, Sun, 16 Jun 2013 12:34:31 +0200
