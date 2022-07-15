@@ -7,7 +7,7 @@ Senha: 4962
 
 ## Download
 
-Você pode baixar o AppImage [AQUI](https://github.com/KelvinNovais/CADe_SIMU-Linux/releases/download/Stable/CADe_SIMU-x86_64-Versao_1.0.0.AppImage).
+Você pode baixar o AppImage [AQUI](https://github.com/KelvinNovais/CADe_SIMU-Linux/releases/download/Stable/CADe_SIMU-x86_64-Versao_1.2.0.AppImage).
 
 ![CADeSIMU](https://user-images.githubusercontent.com/83086622/179129374-4f60b32a-d334-4fd4-ba95-ec79c6cf4117.gif)
 
