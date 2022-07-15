@@ -1,6 +1,0 @@
-pcm.myoss {
-        type oss
-        device /dev/dsp
-}
-
-# Usage: aplay -Dplug:myoss foo.wav

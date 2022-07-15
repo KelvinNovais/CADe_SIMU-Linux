@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=hh
-MimeType=application/vnd.ms-htmlhelp;
-Exec=env WINEPREFIX="/home/kelvin/Desktop/CADe_SIMU-Linux/CADe_SIMU/prefix" wine start /ProgIDOpen chm.file %f
-NoDisplay=true
-StartupNotify=true
-Icon=A35F_hh.0

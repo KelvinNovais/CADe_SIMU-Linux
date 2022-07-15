@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=winebrowser
-MimeType=application/pdf;
-Exec=env WINEPREFIX="/home/kelvin/Desktop/CADe_SIMU-Linux/CADe_SIMU/prefix" wine start /ProgIDOpen pdffile %f
-NoDisplay=true
-StartupNotify=true
-Icon=7765_winebrowser.0

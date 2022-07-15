@@ -30755,8 +30755,8 @@ WINE REGISTRY Version 2
 "CommonPictures"=str(2):"%PUBLIC%\\Pictures"
 "CommonVideo"=str(2):"%PUBLIC%\\Videos"
 
-[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1657749903
-#time=1d897049a6f3ffa
+[Software\\Microsoft\\Windows\\CurrentVersion\\Fonts] 1657835898
+#time=1d897ccd33d03bc
 "@AR PL UKai CN (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\arphic\\ukai.ttc"
 "@AR PL UKai HK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\arphic\\ukai.ttc"
 "@AR PL UKai TW (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\arphic\\ukai.ttc"
@@ -31002,7 +31002,7 @@ WINE REGISTRY Version 2
 "Liberation Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation2\\LiberationSerif-Bold.ttf"
 "Liberation Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation2\\LiberationSerif-BoldItalic.ttf"
 "Liberation Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation2\\LiberationSerif-Italic.ttf"
-"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\marlett.ttf"
+"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\marlett.ttf"
 "MS Sans Serif"="sseriff.fon"
 "MS Serif"="serife.fon"
 "NimbusMonoPS-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusMonoPS-Bold.otf"
@@ -31362,9 +31362,9 @@ WINE REGISTRY Version 2
 "Roboto Slab Thin (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\roboto-slab\\RobotoSlab-Thin.ttf"
 "Small Fonts"="smalle.fon"
 "Standard Symbols PS (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\StandardSymbolsPS.otf"
-"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\symbol.ttf"
-"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahoma.ttf"
-"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahomabd.ttf"
+"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\tahomabd.ttf"
 "Ubuntu (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\ubuntu\\Ubuntu-R.ttf"
 "Ubuntu Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\ubuntu\\Ubuntu-B.ttf"
 "Ubuntu Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\ubuntu\\Ubuntu-BI.ttf"
@@ -31387,7 +31387,7 @@ WINE REGISTRY Version 2
 "URWGothic-BookOblique (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-BookOblique.otf"
 "URWGothic-Demi (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-Demi.otf"
 "URWGothic-DemiOblique (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-DemiOblique.otf"
-"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\wingding.ttf"
+"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\wingding.ttf"
 "Z003-MediumItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\Z003-MediumItalic.otf"
 
 [Software\\Microsoft\\Windows\\CurrentVersion\\Group Policy] 1657301333
@@ -33706,8 +33706,8 @@ WINE REGISTRY Version 2
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontMapper] 1657301333
 #time=1d892f0322a15ae
 
-[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1657749903
-#time=1d897049a6f3f5a
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Fonts] 1657835898
+#time=1d897ccd33d0330
 "@AR PL UKai CN (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\arphic\\ukai.ttc"
 "@AR PL UKai HK (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\arphic\\ukai.ttc"
 "@AR PL UKai TW (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\arphic\\ukai.ttc"
@@ -33953,7 +33953,7 @@ WINE REGISTRY Version 2
 "Liberation Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation2\\LiberationSerif-Bold.ttf"
 "Liberation Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation2\\LiberationSerif-BoldItalic.ttf"
 "Liberation Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\liberation2\\LiberationSerif-Italic.ttf"
-"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\marlett.ttf"
+"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\marlett.ttf"
 "MS Sans Serif"="sseriff.fon"
 "MS Serif"="serife.fon"
 "NimbusMonoPS-Bold (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\NimbusMonoPS-Bold.otf"
@@ -34313,9 +34313,9 @@ WINE REGISTRY Version 2
 "Roboto Slab Thin (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\roboto-slab\\RobotoSlab-Thin.ttf"
 "Small Fonts"="smalle.fon"
 "Standard Symbols PS (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\StandardSymbolsPS.otf"
-"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\symbol.ttf"
-"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahoma.ttf"
-"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahomabd.ttf"
+"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\tahomabd.ttf"
 "Ubuntu (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\ubuntu\\Ubuntu-R.ttf"
 "Ubuntu Bold (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\ubuntu\\Ubuntu-B.ttf"
 "Ubuntu Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\truetype\\ubuntu\\Ubuntu-BI.ttf"
@@ -34338,7 +34338,7 @@ WINE REGISTRY Version 2
 "URWGothic-BookOblique (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-BookOblique.otf"
 "URWGothic-Demi (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-Demi.otf"
 "URWGothic-DemiOblique (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\URWGothic-DemiOblique.otf"
-"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\wingding.ttf"
+"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\wingding.ttf"
 "Z003-MediumItalic (TrueType)"="Z:\\usr\\share\\fonts\\opentype\\urw-base35\\Z003-MediumItalic.otf"
 
 [Software\\Microsoft\\Windows NT\\CurrentVersion\\FontSubstitutes] 1657301333
@@ -35871,18 +35871,18 @@ WINE REGISTRY Version 2
 @="Display adapters"
 "Class"="Display"
 
-[System\\CurrentControlSet\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000] 1657749903
-#time=1d897049aa76e02
-"DriverDateData"=hex:ea,6d,a7,9a,04,97,d8,01
+[System\\CurrentControlSet\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000] 1657835898
+#time=1d897ccd36fd06c
+"DriverDateData"=hex:1f,d0,6f,d3,cc,97,d8,01
 "DriverDesc"="Unknown AMD Radeon GPU @ pci:0000:03:00.0"
 
-[System\\CurrentControlSet\\Control\\Class\\{4d36e96e-e325-11ce-bfc1-08002be10318}] 1657749903
-#time=1d897049aa798d2
+[System\\CurrentControlSet\\Control\\Class\\{4d36e96e-e325-11ce-bfc1-08002be10318}] 1657835898
+#time=1d897ccd3700ab4
 @="Monitors"
 "Class"="Monitor"
 
-[System\\CurrentControlSet\\Control\\Class\\{4d36e96e-e325-11ce-bfc1-08002be10318}\\0000] 1657749903
-#time=1d897049aa798d2
+[System\\CurrentControlSet\\Control\\Class\\{4d36e96e-e325-11ce-bfc1-08002be10318}\\0000] 1657835898
+#time=1d897ccd3700ab4
 
 [System\\CurrentControlSet\\Control\\Class\\{4d36e978-e325-11ce-bfc1-08002be10318}] 1657301333
 #time=1d892f03229b1c2
@@ -35928,16 +35928,16 @@ WINE REGISTRY Version 2
 #time=1d892f0325105f6
 "DeviceInstance"="HID\\VID_0000&PID_0000\\0&WINEMOUSE&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\#] 1657749903
-#time=1d897049a88f4ea
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\\#] 1657835898
+#time=1d897ccd351adbc
 "SymbolicLink"="\\\\?\\HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}"
 
 [System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{4D1E55B2-F16F-11CF-88CB-001111000030}] 1657301334
 #time=1d892f03250eb16
 "DeviceInstance"="HID\\VID_0000&PID_0000\\0&WINEMOUSE&0&0"
 
-[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{4D1E55B2-F16F-11CF-88CB-001111000030}\\#] 1657749903
-#time=1d897049a3d98e2
+[System\\CurrentControlSet\\Control\\DeviceClasses\\{4D1E55B2-F16F-11CF-88CB-001111000030}\\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{4D1E55B2-F16F-11CF-88CB-001111000030}\\#] 1657835897
+#time=1d897ccd305f6ec
 "SymbolicLink"="\\\\?\\HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{4D1E55B2-F16F-11CF-88CB-001111000030}"
 
 [System\\CurrentControlSet\\Control\\hivelist] 1657301333
@@ -36427,28 +36427,28 @@ WINE REGISTRY Version 2
 #time=1d8964ca89a6b8a
 "CSDVersion"=dword:00000300
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000] 1657749903
-#time=1d897049aa79a3a
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000] 1657835898
+#time=1d897ccd3700d0c
 "Class"="Monitor"
 "ClassGUID"="{4D36E96E-E325-11CE-BFC1-08002BE10318}"
 "DeviceDesc"="Generic Non-PnP Monitor"
 "Driver"="{4D36E96E-E325-11CE-BFC1-08002BE10318}\\0000"
 "HardwareID"=str(7):"MONITOR\\Default_Monitor\0"
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0002] 1657749903
-#time=1d897049aa79c10
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0002] 1657835898
+#time=1d897ccd3700fdc
 @=hex(ffff0007):03,00,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0003] 1657749903
-#time=1d897049aa79ddc
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0003] 1657835898
+#time=1d897ccd37012c0
 @=hex(ffff1003):00,00,00,00,00,00,00,00,80,07,00,00,38,04,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0004] 1657749903
-#time=1d897049aa79fa8
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0004] 1657835898
+#time=1d897ccd37014b4
 @=hex(ffff1003):00,00,00,00,1b,00,00,00,80,07,00,00,38,04,00,00
 
-[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0005] 1657749903
-#time=1d897049aa7a16a
+[System\\CurrentControlSet\\Enum\\DISPLAY\\DEFAULT_MONITOR\\0000&0000\\Properties\\{233A9EF3-AFC4-4ABD-B564-C32F21F1535B}\\0005] 1657835898
+#time=1d897ccd37016da
 @=hex(ffff0012):5c,00,5c,00,2e,00,5c,00,44,00,49,00,53,00,50,00,4c,00,41,00,59,\
   00,31,00,00,00
 
@@ -36469,8 +36469,8 @@ WINE REGISTRY Version 2
 #time=1d892f1dbd55bbc
 "VideoID"="{37658dc3-3f9b-433b-b8c5-00f909d8fa01}"
 
-[System\\CurrentControlSet\\Enum\\PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000\\Properties\\{540B947E-8B40-45BC-A8A2-6A0B894CBDA2}\\0005] 1657749903
-#time=1d897049aa76a2e
+[System\\CurrentControlSet\\Enum\\PCI\\VEN_0000&DEV_0000&SUBSYS_00000000&REV_00\\00000000\\Properties\\{540B947E-8B40-45BC-A8A2-6A0B894CBDA2}\\0005] 1657835898
+#time=1d897ccd36fccca
 @=hex(ffff0011):01,00,00,00
 
 [System\\CurrentControlSet\\Enum\\ROOT\\WINE\\WINEBUS] 1657301334

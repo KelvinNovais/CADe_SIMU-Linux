@@ -1,2 +1,0 @@
-# We do not link the GPL code we ship with openssl; it's a separate utility
-libsasl2-modules binary: possible-gpl-code-linked-with-openssl

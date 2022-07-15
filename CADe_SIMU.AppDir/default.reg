@@ -13,13 +13,13 @@ REGEDIT4
 "FontSmoothingType"=dword:00000002
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion]   #1657302380
-[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Fonts]   #1657749903
-"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\marlett.ttf"
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Fonts]   #1657835898
+"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\marlett.ttf"
 "MS Sans Serif"="sseriff.fon"
-"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\symbol.ttf"
-"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahoma.ttf"
-"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahomabd.ttf"
-"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\wingding.ttf"
+"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\tahomabd.ttf"
+"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\wingding.ttf"
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{25DA76D0-033C-4235-9002-19F48894AC6F}]   #1657738434
 "DeviceState"=dword:00000001
 
@@ -59,20 +59,20 @@ REGEDIT4
 "CurrentBuildNumber"="2600"
 "CurrentVersion"="5.1"
 "ProductName"="Microsoft Windows XP"
-[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts]   #1657749903
-"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\marlett.ttf"
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Fonts]   #1657835898
+"Marlett (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\marlett.ttf"
 "MS Sans Serif"="sseriff.fon"
-"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\symbol.ttf"
-"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahoma.ttf"
-"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\tahomabd.ttf"
-"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-45IfBcq\\share\\wine\\fonts\\wingding.ttf"
+"Symbol (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\tahomabd.ttf"
+"Wingdings (TrueType)"="Z:\\tmp\\.mount_Wine-4H1qsGj\\share\\wine\\fonts\\wingding.ttf"
 [HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}]   #1657302048
-[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]   #1657749903
-"DriverDateData"=hex:ea,6d,a7,9a,04,97,d8,01
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000]   #1657835898
+"DriverDateData"=hex:1f,d0,6f,d3,cc,97,d8,01
 "DriverDesc"="Unknown AMD Radeon GPU @ pci:0000:03:00.0"
 
-[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e96e-e325-11ce-bfc1-08002be10318}]   #1657749903
-[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e96e-e325-11ce-bfc1-08002be10318}\0000]   #1657749903
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e96e-e325-11ce-bfc1-08002be10318}]   #1657835898
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Class\{4d36e96e-e325-11ce-bfc1-08002be10318}\0000]   #1657835898
 
-[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\DeviceClasses\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\#]   #1657749903
-[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\DeviceClasses\{4D1E55B2-F16F-11CF-88CB-001111000030}\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{4D1E55B2-F16F-11CF-88CB-001111000030}\#]   #1657749903
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\DeviceClasses\{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{378DE44C-56EF-11D1-BC8C-00A0C91405DD}\#]   #1657835898
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\DeviceClasses\{4D1E55B2-F16F-11CF-88CB-001111000030}\##?#HID#VID_0000&PID_0000#0&WINEMOUSE&0&0#{4D1E55B2-F16F-11CF-88CB-001111000030}\#]   #1657835897

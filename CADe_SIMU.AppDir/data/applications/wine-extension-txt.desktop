@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=notepad
-MimeType=text/plain;
-Exec=env WINEPREFIX="/home/kelvin/Desktop/CADe_SIMU-Linux/CADe_SIMU/prefix" wine start /ProgIDOpen txtfile %f
-NoDisplay=true
-StartupNotify=true
-Icon=1E64_notepad.0
