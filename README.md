@@ -5,6 +5,16 @@ Aqui realizei apenas o porte para Linux.
 
 Senha: 4962
 
+Nota: para fechar a janela principal, feche primeiro as subjanelas:
+
+<img 
+  style="display: block; 
+         margin-left: auto;
+         margin-right: auto;
+         width: 30%;"
+  src="https://github.com/user-attachments/assets/b62bdf03-96de-4254-a897-80fd9bfa5df8" alt="Subjanelas" width="400" height="auto"
+/>
+
 ## Download
 
 Você pode baixar o AppImage [AQUI](https://github.com/KelvinNovais/CADe_SIMU-Linux/releases/download/Stable/CADe_SIMU-x86_64-Versao_1.2.0.AppImage).
