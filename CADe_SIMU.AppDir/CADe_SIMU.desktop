@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Application
-Icon=CADe_SIMU
-Exec=wine %f
-Name=CADe_SIMU
-Categories=Office;
