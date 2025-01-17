@@ -25,3 +25,13 @@ Você pode baixar o AppImage [AQUI](https://github.com/KelvinNovais/CADe_SIMU-Li
 
 - Site oficial: https://canalplc.blogspot.com/
 - Package: https://github.com/sudo-give-me-coffee/wine32-deploy
+
+## Packaging
+
+Para gerar o AppImage, clone o repositório e execute o `packager.sh`:
+```bash
+git clone https://github.com/KelvinNovais/CADe_SIMU-Linux.git
+cd CADe_SIMU-Linux
+chmod +x packager.sh
+./packager.sh
+```
